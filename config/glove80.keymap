@@ -130,7 +130,7 @@
 
         symbol_layer {
            bindings = <
-            // FRow
+            // FnRow
             &none        &none               &none           &none           &none                                                                                                           &none      &none      &none      &none      &none
             // Num
             &none             &none               &none           &none           &none           &none                                                                                &none      &none      &none      &none      &none      &none
@@ -139,7 +139,8 @@
             // asdf
             &none             &none               &none           &none           &none           &none                                                                                &none      &none      &none      &none      &none      &none
             // zxc
-            &none             &none               &none           &none           &none           &none            &none            &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
+            // SHIFT          Z                    X               C                V              B
+            &none             &kp LBKT          &kp RBKT       &kp LBRC       &kp RBRC           &none            &none            &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
             // bot
             &none             &none               &none           &none           &none           &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
             >;
