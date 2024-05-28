@@ -140,7 +140,7 @@
             &none             &none               &none           &none           &none           &none                                                                                &none      &none      &none      &none      &none      &none
             // zxc
             // SHIFT          Z                    X               C                V              B
-            &none             &kp LBKT          &kp RBKT       &kp LBRC       &kp RBRC           &none            &none            &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
+            &none             &none            &kp LBKT          &kp RBKT       &kp LBRC       &kp RBRC           &none            &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
             // bot
             &none             &none               &none           &none           &none           &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
             >;
