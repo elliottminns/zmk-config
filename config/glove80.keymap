@@ -147,7 +147,7 @@
             // qwert
             &none             &none               &none           &none           &none           &none                                                                                &none      &none      &none      &none      &none      &none
             // asdf
-            &none             &none               &none           &none           &none           &none                                                                                &none      &none      &none      &none      &none      &none
+            &kp TILDE             &kp CARET               &none           &kp STAR           &kp LPAR           &kp RPAR                                                                                &none      &none      &none      &none      &none      &none
             // zxc
             // SHIFT          Z                    X               C                V              B
             &none             &none            &kp LBKT          &kp RBKT       &kp LBRC       &kp RBRC           &none            &none            &none            &none            &none            &none         &none      &none      &none      &none      &none      &none
